@@ -1,0 +1,2 @@
+/node_modules
+# need to ignore env file in config folder. To run app locally, not added here. 
